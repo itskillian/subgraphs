@@ -1,6 +1,6 @@
 [submodule "cum-impact-subgraph"]
 	path = cum-impact-subgraph
-	url = https://github.com/itskillian/cum-hook-subgraph.git
+	url = https://github.com/itskillian/cum-impact-subgraph.git
 [submodule "price-impact-subgraph"]
 	path = price-impact-subgraph
 	url = https://github.com/itskillian/price-impact-subgraph.git
